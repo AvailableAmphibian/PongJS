@@ -1,0 +1,15 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "le célèbre jeu Pong",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Hugo Forraz",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.4.0"
+  }
+}
